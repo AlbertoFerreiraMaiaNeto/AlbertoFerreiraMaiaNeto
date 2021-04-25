@@ -4,15 +4,16 @@
 <p align='center'>
 <a href="https://www.linkedin.com/in/alberto-ferreira-maia-neto-045356a3/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></p>
-
+    
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=albertoferreiramaianeto&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
 
 
 <details>
   <summary>📃 My Resume</summary>
 
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=albertoferreiramaianeto&show_icons=true&count_private=true&theme=dark" width="350"></a>
-</p>
+
 ## Education
 
 - 📖 **Analysis and Systems Development**\
