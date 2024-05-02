@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Alberto! 😄</h1>
-<h3 align="center">A java and flutter developer from Recife, Brazil.</h3>
+<h3 align="center">A java developer from Recife, Brazil.</h3>
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/alberto-ferreira-maia-neto-045356a3/">
