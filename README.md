@@ -27,8 +27,17 @@
 <img align="right" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
 
+- 👨‍💻 **Software Engineer**\
+📆 04/2021 - 08/2021\
+📍 **Nova Tendência** - São Paulo/SP, Brazil
+
+<img align="right" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
+
 - 👨‍💻 **Development Intern**\
-📆 2021 - Moment\
+📆 02/2021 - 04/2021\
 📍 **SENAI-PE** - Recife/PE, Brazil
 
 <img align="right" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
